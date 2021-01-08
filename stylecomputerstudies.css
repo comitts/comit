@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 0px;
+    background-color: black;
+}
+.background{
+    background-image: url(templets\background.png);
+}
+.img{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+header{
+    font-size: 40px;
+    text-indent: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    padding: 20px;
+}
+.topnav{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.topnav a{
+    border: rgb(59, 56, 56) solid;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    background-color: white;
+    padding: 5px;
+    margin: 20px;
+}
+#active{
+    background-color: darkcyan;
+    border: darkcyan solid;
+}
+.topnav a .active :hover{
+    background-color: red;
+    color: teal;
+}
+.header{
+    padding: 15px;
+    font-size: 30px;
+    font-family: monospace;
+    color: limegreen;
+}
+h1{
+    font-size: 80px;
+}
+p{
+    color: purple;
+}
+h2{
+    font-size: 50px;
+    font-family: monospace;
+}
+h3{
+    border: black solid;
+    height: 300px;
+    width: 300px;
+    border: blue solid;
+    border-bottom-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
+.studies{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+button1{
+    height: 45px;
+    width: 80px;
+    font-size: 50px;
+    font-family: fantasy;
+    color: white;
+    background-color:white;
+    border: none;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border: wheat solid;
+}
+a{
+    text-decoration: none;
+}
+.languages{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+.html{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}

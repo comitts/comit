@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 0px;
+    background-color: whitesmoke;
+    background-image: url(templets\background.png);
+}
+.img{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+header{
+    font-size: 40px;
+    text-indent: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    padding: 20px;
+}
+.topnav{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.topnav a{
+    border: rgb(59, 56, 56) solid;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    margin: 20px;
+}
+#active{
+    background-color: darkcyan;
+    border: darkcyan solid;
+}
+.topnav a :hover{
+    background-color: red;
+    color: darkcyan;
+}
+.whyus{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+h1{
+    font-size: 25px;
+    font-family: cursive;
+}
+p9{
+    font-size: 30px;
+    font-family: monospace;
+    color: black;
+}
+#my{
+    border: white;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+p1{
+    font-size: 30px;
+    font-family: monospace;
+    color: blue;
+}
+button1{
+    float: right;
+    height: 50px;
+    width: 110px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+.comits{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+h2{
+    font-size: 30px;
+    color: blue;
+}
+i{
+    font-size: 25px;
+    color: green;
+}
+.combu{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+h4{
+    font-size: 35px;
+    font-family: fantasy;
+}
+button2{
+    height: 45px;
+    width: 80px;
+    font-size: 50px;
+    font-family: fantasy;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+h5{
+    font-size: 35px;
+    font-family: fantasy;
+}
+p4{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 0px;
+    padding: 0px;
+}
+.contact{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+a{
+    text-decoration: none;
+}
+.social{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    background-color: white;
+    border: blue solid;
+}
+p{
+    font-size: 30px;
+    font-family: monospace;
+    color: blue;
+}
+p2{
+    font-size: 35px;
+    font-family: monospace;
+    color:;
+}
